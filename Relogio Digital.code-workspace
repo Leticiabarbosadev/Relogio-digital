@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Relogio Digital"
+	}
+}
